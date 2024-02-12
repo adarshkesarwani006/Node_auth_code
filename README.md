@@ -24,7 +24,7 @@ A Node.js project for implementing login, signup, JWT token authentication, and 
 ## Testing
 
 9. As this is a node program is without UI so there will be nothing on browser, To test the endpoints or Node API follow below steps:
-10. Download and install POSTMAN from "https://www.postman.com/downloads/"
+10. Download and install POSTMAN from "https://www.postman.com/downloads/".
 11. Open Postman and click on the "+" sign. In the opened window, select the method "POST" and enter the URL "http://127.0.0.1:3000/register". Then, in the Body section, select form-data (indicated by green dots). Enter the username and password, and click "Send". You will receive a "User Registered Successfully" response. Refer to the image below for everything written in step 11.
 
     ![image_2024_02_12T05_13_46_958Z](https://github.com/adarshkesarwani006/Node_auth_code/assets/75213719/83524c67-017d-438d-b4fc-c75f8178b44b)
