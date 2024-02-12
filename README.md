@@ -45,4 +45,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate. 🎃
 
 ## Disclaimer
-The added video/tutorials/images/links are not mine; they belong to their respective creators of respective platforms.
+The videos, tutorials, images, and links provided for reference are not my own; rather, they are the intellectual property of their respective creators on their respective platforms.
