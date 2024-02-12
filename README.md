@@ -12,7 +12,7 @@ A Node.js project for implementing login, signup, JWT token authentication, and 
     ```bash
     node app.js 👈
     ```   
-6. After that, some lines of terminal code will run  and you will see the following sets of lines at the end.
+6. After that, you'll see the following sets of lines at the end with a server link. If any errors occur, please debug them.
     ```bash
     PS C:\Users\hp\Desktop\node_ply_picker> node app.js      
     Server is running on http://127.0.0.1:3000 👈
